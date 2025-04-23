@@ -2,7 +2,7 @@
 
 Welcome to my Kaggle competition project! This repo contains my full solution and approach for the **House Prices - Advanced Regression Techniques** competition on Kaggle.
 
-![House](https://img.icons8.com/ios-filled/100/000000/home.png)
+![House](https://storage.googleapis.com/kaggle-media/competitions/House%20Prices/kaggle_5407_media_housesbanner.png)
 
 ---
 
