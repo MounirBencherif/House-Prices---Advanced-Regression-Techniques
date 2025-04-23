@@ -14,7 +14,7 @@ This project covers:
 
 - 📊 Data cleaning & preprocessing  
 - 🧠 Feature engineering & selection  
-- 🤖 Model building & tuning (Linear Models, XGBoost, LightGBM, etc.)  
+- 🤖 Model building & tuning
 - 📈 Evaluation & submission strategies
 
 ---
