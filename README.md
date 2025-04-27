@@ -19,7 +19,8 @@ This project covers:
 
 
 🔗 **Competition Link**: https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques
-🏆 **Rank**: 61/4715 **TOP 1%*
+
+🏆 **Rank**: 61/4715 **TOP 1%**
 
 
 
